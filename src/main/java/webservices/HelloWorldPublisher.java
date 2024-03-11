@@ -1,6 +1,5 @@
 package webservices;
 
-import pl.edu.pb.wi.fd.HelloWorld;
 import pl.edu.pb.wi.fd.HelloWorldImpl;
 
 import javax.xml.ws.Endpoint;
